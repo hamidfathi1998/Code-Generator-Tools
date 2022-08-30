@@ -1,0 +1,475 @@
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Windows\.gradle\wrapper\dists\gradle-6.5-bin\6nifqtx7604sqp1q6g8wikw7p\gradle-6.5" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="LoginRegister" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="LoginRegister" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/app" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/app">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/app" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="LoginRegister" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/ant-1.10.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/ant-launcher-1.10.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-api-metadata-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-base-annotations-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-base-services-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-base-services-groovy-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-bootstrap-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-cache-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-cache-base-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-cache-packaging-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-events-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-option-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-cli-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-core-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-core-api-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-docs-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-execution-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-file-collections-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-file-watching-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-files-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-hashing-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-installation-beacon-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-java-compiler-plugin-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-jvm-services-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-kotlin-dsl-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-kotlin-dsl-tooling-models-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-launcher-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-logging-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-messaging-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-model-core-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-model-groovy-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-native-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-normalization-java-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-persistent-cache-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-process-services-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-resources-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-runtime-api-info-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-snapshots-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-tooling-api-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-worker-processes-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-wrapper-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/groovy-all-1.3-2.5.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-antlr-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-build-cache-http-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-build-init-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-build-profile-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-code-quality-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-composite-builds-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-dependency-management-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-diagnostics-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ear-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ide-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ide-native-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ide-play-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-instant-execution-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ivy-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-jacoco-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-javascript-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-kotlin-dsl-provider-plugins-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-kotlin-dsl-tooling-builders-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-groovy-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-java-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-jvm-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-native-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-scala-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-maven-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-base-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-jvm-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-native-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-play-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-plugin-development-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-plugin-use-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-plugins-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-publish-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-reporting-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-gcs-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-http-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-s3-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-sftp-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-scala-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-security-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-signing-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-test-kit-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-base-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-junit-platform-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-jvm-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-native-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-tooling-api-builders-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-tooling-native-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-version-control-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-workers-6.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="345" />
+  </component>
+  <component name="sourceFolderManager">
+    <option name="sourceFolders">
+      <list>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/aidl" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/java" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/jni" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/rs" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/shaders" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/assets" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/ml" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/res" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/debug/resources" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/aidl" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/jni" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/rs" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/shaders" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/assets" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/ml" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/main/resources" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/aidl" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/jni" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/rs" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/shaders" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/assets" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/ml" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/res" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTest/resources" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/aidl" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/java" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/jni" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/rs" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/shaders" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/assets" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/ml" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/res" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/androidTestDebug/resources" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/aidl" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/jni" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/rs" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/shaders" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/assets" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/ml" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/res" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/test/resources" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/aidl" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/java" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/jni" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/rs" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/shaders" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/assets" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/ml" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/res" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/src/testDebug/resources" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/aidl_source_output_dir/debug/out" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/renderscript_source_output_dir/debug/out" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debugUnitTest/out" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_SOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/source/kapt/debugUnitTest" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/res/rs/debug" />
+        </SourceFolderModelState>
+        <SourceFolderModelState>
+          <option name="generated" value="true" />
+          <option name="moduleName" value="LoginRegister.app" />
+          <option name="type" value="TEST_RESOURCE" />
+          <option name="url" value="file://$PROJECT_DIR$/app/build/generated/res/rs/androidTest/debug" />
+        </SourceFolderModelState>
+      </list>
+    </option>
+  </component>
+</project>

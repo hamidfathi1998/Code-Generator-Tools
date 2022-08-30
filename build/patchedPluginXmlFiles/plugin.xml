@@ -1,0 +1,17 @@
+<idea-plugin>
+  <version>0.1.12</version>
+  <description>&lt;p&gt;This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.&lt;/p&gt;
+
+&lt;p&gt;This specific section is a source for the &lt;a href="/src/main/resources/META-INF/plugin.xml"&gt;plugin.xml&lt;/a&gt; file which will be extracted by the &lt;a href="/build.gradle.kts"&gt;Gradle&lt;/a&gt; during the build process.&lt;/p&gt;
+
+&lt;p&gt;To keep everything working, do not remove &lt;code&gt;&amp;lt;!-- ... --&amp;gt;&lt;/code&gt; sections.&lt;/p&gt;</description>
+  <idea-version since-build="201.*" until-build="202.*"/>
+  <id>com.bugloos.template.fragmentsetup</id>
+  <name>Fragment-Bugloos-Setup2</name>
+  <vendor>hamid-fathi</vendor>
+  <depends>org.jetbrains.android</depends>
+  <depends>com.intellij.modules.androidstudio</depends>
+  <extensions defaultExtensionNs="com.android.tools.idea.wizard.template">
+    <wizardTemplateProvider implementation="other.WizardTemplateProviderImpl"/>
+  </extensions>
+</idea-plugin>
